@@ -16,6 +16,7 @@ imc: real
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
+escreval("esse projeto esta dentro do github")
 escreval("####PROGRAMA DE CALCULOS####")
 escreval("")
 escreval("digite a opçao desejada:")
